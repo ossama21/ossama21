@@ -4,7 +4,7 @@
 <div align="center">
 
 ## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=f034fd&width=435&lines=-------------------------------------)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BOussama_Hattan%5D+profile;Oussama_Hattan@Arch+~%24+{cat,root.txt};{SW0gTm90IEhhY2tlciwgSnVzdCBIYXJkIFdvcmsK};..............................;............H4CK3D!............;..............................;..............................;..............................;..............................;.............................;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=f034fd&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BOussama_Hattan%5D+profile;Oussama_Hattan@Arch+~%24+{cat,root.txt};....................................;.....................................;...............H4CK3D!...............;..............................;..............................;..............................;..............................;.............................;)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ossama21&label=Profile%20views&color=0e75b6&style=flat" alt="ossama21" /> </p>
